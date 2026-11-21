@@ -43,6 +43,3 @@
 ## Conclusion
 The analysis shows Development as the most productive department and HR as the least, and identifies 12 employees who need attendance support. Attendance has a strong positive relationship with tasks completed, so improving attendance is likely to help productivity, but it should be combined with mentoring, realistic targets and training. The spreadsheet is formula-driven, so the HR team can add employees and the summary, classification and charts update automatically.
 
-## Limitations
-- Records E113–E200 are simulated, so the numbers illustrate the method and are not real company data.
-- Only a single month of data; productivity is measured only by task count.
