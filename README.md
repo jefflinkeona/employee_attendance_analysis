@@ -1,4 +1,4 @@
-# Case Study 2 – Employee Attendance and Productivity Analysis
+# Case Study 3 – Employee Attendance and Productivity Analysis
 
 **Submitted by:** Jefflin Keona J | **Roll No:** 26AD1121
 **Course:** B.Tech Artificial Intelligence and Data Science, St. Joseph's College of Engineering
